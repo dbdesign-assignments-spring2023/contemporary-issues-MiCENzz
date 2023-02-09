@@ -6,9 +6,9 @@ Welcome! Your writing assignment will be in this file.  See [the instructions](.
 In this document, I will discuss two different viewpoints about the form of databases: centralized or decentralized databases. 
 
 ## Article 1
-In Analisse Weathers's [Benefits of a Centralized Database to Your Business](https://www.tmcnet.com/topics/articles/2021/11/05/450560-benefits-a-centralized-database-your-business.htm), the author lists serval advantages of centralized databases that could improve data management. To be more precise, the structure of cerntrailzed databases make data more secure, and allow for data integrity, more efficient because of the improved reliability and speed in centralized databases.
+In Analisse Weathers's [Benefits of a Centralized Database to Your Business](https://www.tmcnet.com/topics/articles/2021/11/05/450560-benefits-a-centralized-database-your-business.htm), the author lists serval advantages of centralized databases that could improve data management. To be more precise, the structure of cerntrailzed databases make data more secure, and allow for data integrity, better efficiency because of the improved reliability and speed in centralized databases.
 
-In my opinion, author's viewpoints stands and I agree that the centralized form of  databases makes data management more efficient and secure. In fact, the centrailzed form database is widly used since last cerntry, which allowed users to directly access records.
+In my opinion, author's viewpoints stands and I agree that the centralized form of  databases makes data management more efficient and secure. In fact, the centrailzed form database is widly used since last centry, which allowed users to directly access records.
 Moreover, centralized database management enables organizations(schools, governments) to enforce standardized data policies and ensure data quality and consistency.
 
 ## Article 2
